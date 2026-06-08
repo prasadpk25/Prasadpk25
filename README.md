@@ -50,7 +50,7 @@ Automated video captioning system — extracting visual features from video fram
 ## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/prasad-kattepogu-219392269)
-- 📬 Open to remote roles & freelance AI/data projects — feel free to reach out via LinkedIn
+- 📬 Open to remote roles & freelance and intern in AI/data projects — feel free to reach out via LinkedIn
 
 ---
 
